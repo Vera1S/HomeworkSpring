@@ -1,0 +1,9 @@
+ Две темы для самостоятельного изучения:
+
+1) Вариант того, как можно (и нужно) оформлять документацию в проектах -
+javadoc https://java-online.ru/java-javadoc.xhtml и https://www.baeldung.com/javadoc
+2) Усовершенствованная работа со строками String.format
+https://www.baeldung.com/string/format
+https://javarush.com/quests/lectures/questmultithreading.level02.lecture06
+
+А также до 8.01.2024 необходимо выбрать тему вашего финального проекта и согласовать со мной
