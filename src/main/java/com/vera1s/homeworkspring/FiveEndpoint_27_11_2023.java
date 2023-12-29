@@ -13,6 +13,7 @@ public class FiveEndpoint_27_11_2023 {
    List<Integer> counterList = new ArrayList<>();
       private int counter = 0;
 
+
     @GetMapping("/save-and-reset")
     public String saveAndReset() {
         counterList.add(counter);
