@@ -45,6 +45,5 @@ public class FiveEndpoint_27_11_2023 {
        } else {
            return "мы вам не рады";
        }
-
     }
 }
